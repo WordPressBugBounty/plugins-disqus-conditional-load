@@ -3,7 +3,7 @@ Contributors: joelcj91,duckdev
 Donate link: https://paypal.me/JoelCJ
 Tags: disqus, disqus conditional load, comment hide, hide disqus, disqus comments, disqus on click, disqus auto load, disqus, woocommerce comments, edd comments
 Requires at least: 5.0
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 11.1.2
 License: GPLv2 or later
