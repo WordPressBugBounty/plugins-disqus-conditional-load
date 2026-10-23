@@ -1,9 +1,9 @@
 === Disqus Conditional Load ===
-Contributors: joelcj91,duckdev
+Contributors: joelcj91,duckdev,foxelabs
 Donate link: https://paypal.me/JoelCJ
-Tags: disqus, disqus conditional load, comment hide, hide disqus, disqus comments, disqus on click, disqus auto load, disqus, woocommerce comments, edd comments
+Tags: Tags: disqus, disqus comments, lazy load, comments, performance
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.1
 Requires PHP: 5.6
 Stable tag: 11.1.2
 License: GPLv2 or later
